@@ -1,5 +1,0 @@
-﻿  VectorSortingNew.cpp
-C:\Users\brook\source\repos\VectorSortingNew\VectorSortingNew\VectorSortingNew.cpp(95,27): warning C4018: '<': signed/unsigned mismatch
-C:\Users\brook\source\repos\VectorSortingNew\VectorSortingNew\VectorSortingNew.cpp(387,48): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\brook\source\repos\VectorSortingNew\VectorSortingNew\VectorSortingNew.cpp(406,20): warning C4101: 'err': unreferenced local variable
-  VectorSortingNew.vcxproj -> C:\Users\brook\source\repos\VectorSortingNew\x64\Debug\VectorSortingNew.exe
