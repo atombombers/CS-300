@@ -1,0 +1,8 @@
+﻿  CSVparser.cpp
+C:\Users\brook\Desktop\HashTableNew\HashTableNew\CSVparser.cpp(116,27): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\brook\Desktop\HashTableNew\HashTableNew\CSVparser.cpp(121,26): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\brook\Desktop\HashTableNew\HashTableNew\CSVparser.cpp(203,24): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  HashTableNew.cpp
+C:\Users\brook\Desktop\HashTableNew\HashTableNew\HashTableNew.cpp(541,20): warning C4101: 'err': unreferenced local variable
+  Generating Code...
+  HashTableNew.vcxproj -> C:\Users\brook\Desktop\HashTableNew\x64\Debug\HashTableNew.exe
