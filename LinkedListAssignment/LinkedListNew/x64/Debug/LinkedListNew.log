@@ -1,4 +1,0 @@
-﻿  LinkedListNew.cpp
-C:\Users\brook\source\repos\LinkedListNew\LinkedListNew\LinkedListNew.cpp(355,27): warning C4018: '<': signed/unsigned mismatch
-C:\Users\brook\source\repos\LinkedListNew\LinkedListNew\LinkedListNew.cpp(520,20): warning C4101: 'err': unreferenced local variable
-  LinkedListNew.vcxproj -> C:\Users\brook\source\repos\LinkedListNew\x64\Debug\LinkedListNew.exe
